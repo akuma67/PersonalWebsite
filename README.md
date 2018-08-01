@@ -11,4 +11,4 @@ You could either:
 * Add a footer
 
 ### Can I give you money?
-# No.
+No.

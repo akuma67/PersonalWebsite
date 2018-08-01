@@ -7,8 +7,8 @@ Sure! You're allowed to edit this template as long as you credit me.
 
 ### How do I credit you?
 You could either:
-#### 1: Keep the about page unchanged
-#### 2: Add a footer
+* Keep the about page unchanged
+* Add a footer
 
 ### Can I give you money?
 # No.

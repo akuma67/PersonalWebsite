@@ -10,5 +10,5 @@ You could either:
 * Keep the about page unchanged
 * Add a footer
 
-### Can I give you money?
+### I really like this, can I give you money for it?
 No.
